@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayoub Ahmed
 
-<!--
-**ayoub-ahmed/ayoub-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I am a Computer Science student with a strong interest in programming and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Interests
+- Programming (Python & software development)
+- Cybersecurity fundamentals
+- Linux and system basics
+
+## 📚 Currently Learning
+- Python programming
+- Git & GitHub
+- Cybersecurity basics and concepts
+
+## 🎯 Goal
+To improve my skills in software development and Cybersecurity through continuous learning and practice.
+
+---
+
+🚀 Always learning, always improving.
