@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am a Computer Science student with a strong interest in programming and Cybersecurity.
+I am a Computer Science Graduate with a strong interest in programming and Cybersecurity.
 
 ## 💻 Interests
 - Programming (Python & software development)
